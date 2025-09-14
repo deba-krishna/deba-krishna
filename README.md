@@ -7,9 +7,7 @@
 
 <p align="center">
   <!-- Social badges -->
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/debakrishna_)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-  [![Website](https://img.shields.io/badge/Website-Visit-blue.svg)](https://your-website.example)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/debakrishna_?igsh=bWppbjhybHhwZzFl)
 </p>
 
 ## 🔭 About me
